@@ -1,47 +1,28 @@
-# Storybook
+Demo scenario: "Sarah's first home"
+The person: Sarah, 34, a nurse in Sydney. She and her partner just bought a house with a $750k mortgage, and they're expecting their first baby. She has wondered "what happens if something happens to me?" and fills in a "talk to an adviser" form.
 
-One family, one city, one claim. A short picture-book walk through agentic life insurance, told through the agent team at Kestrel Life.
+Act 1: Sarah reaches out (customer side)
+Sarah chats with an intake agent on the adviser's website or app. It asks about her family, mortgage, income, job and any cover through her super, in plain conversation rather than a 20-page form.
+She uploads her super statement. The agent reads it and finds she already has $200k death cover and $200k TPD cover.
+It books her into the adviser's calendar and sends a summary before the meeting.
+What it shows: a conversational form, reading documents, booking the meeting.
 
-## The city
+Act 2: Preparing the adviser (adviser side, the key moment)
+The adviser, James, opens his dashboard before the meeting, and a research agent has already prepared everything:
 
-| Place | Who is there |
-| --- | --- |
-| Tan home | Mia and Ben |
-| Advisor office | James Carter, financial adviser (independent, compares insurers) |
-| Kestrel Life HQ | The agent team (glowing drones) and human leads |
+A client fact sheet built from the chat and the super statement
+A cover shortfall: what Sarah needs (mortgage, income replacement, childcare costs) minus what her super already covers. For example, "Sarah is under-insured by about $900k for death cover and has no income protection."
+Product options: Acenda Life Cover, Income Protection and Critical Illness, with how her job as a nurse affects the options. Occupationally Acquired Infection cover is a great fit for a nurse, and it's a real Acenda product.
+Premium scenarios: for example, buying the cover inside super vs outside super, and stepped vs level premiums.
+Compliance flags: "Confirm her medical history before applying" and "Any replacement of existing cover needs a comparison."
+What it shows: several agents working together, calls to the insurer's quoting system, and reasoning over product rules.
 
-## The agent team
+Act 3: The meeting and the Statement of Advice
+A Teams meeting is transcribed. Afterwards, an agent drafts the Statement of Advice from the transcript, the fact sheet and the chosen products.
+James reviews it, edits the recommendation and approves it. A person stays in charge of the decision.
+What it shows: transcript-to-document drafting, human review, an audit trail.
 
-One agent per typical life insurer department. Each name hints at the job. Agents do the legwork; human leads make the core calls.
-
-| Name | Department | Job in one line | Human lead |
-| --- | --- | --- | --- |
-| **Cara** | Customer Service | Front door for calls and messages; answers questions and gives status in plain words. | Service team leader |
-| **Nora** | New Business | Receives the application, checks identity (KYC/AML) and chases missing forms. | New business manager |
-| **Uma** | Underwriting | Assesses health and lifestyle risk; auto-accepts clear cases, refers the rest. | Underwriter |
-| **Polly** | Policy Administration | Issues the policy, collects premiums, handles changes over time. | Policy admin manager |
-| **Clara** | Claims | Opens the claim, requests medical evidence and builds the assessment pack. | Claims assessor, Lena Ward |
-| **Penny** | Payments | Pays approved claims to the right account. | Finance officer |
-| **Cole** | Compliance | Checks every action for consent, fairness and rules; keeps the audit log. | Compliance officer |
-
-## The story
-
-| # | Scene | What happens | On stage |
-| --- | --- | --- | --- |
-| 1 | Home | Mia and Ben live a busy, ordinary life in the city. | — |
-| 2 | The trigger | A life moment: "We're having a baby." Who would cover the family if something happened? | — |
-| 3 | The call | Mia calls James at the advisor office. | James |
-| 4 | The compare | James compares life insurers side by side and recommends Kestrel Life. | James |
-| 5 | Apply | Mia uploads her documents. Nora checks identity; Uma assesses the health answers and accepts. | Nora, Uma, Cole |
-| 6 | Covered | Polly issues the policy and sets up premiums. Life goes on. | Polly |
-| 7 | The event | Months later, Ben gets bad news from the doctor. They need to claim. | — |
-| 8 | The claim | Mia sends one message: "We need to make a claim." Cara answers and hands it to Clara. | Cara, Clara |
-| 9 | More documents | Clara asks for a doctor's report. Mia uploads it from her phone. | Clara |
-| 10 | The agents work | Clara checks the policy with Polly, gathers medical evidence and builds the assessment pack. Cole checks each step. | Clara, Polly, Cole |
-| 11 | The human call | Clara sends the pack to Lena, the claims assessor. She reviews it and approves. | Lena |
-| 12 | Sorted | Penny pays. Money arrives at home. Cara tells Mia "Claim paid" with every step explained. | Penny, Cara |
-| 13 | Happy life | Polly checks the family still has the right cover. The family gets back to living. | Polly |
-
-## The message
-
-Agents do the legwork. Humans make the calls that matter. The family just lives.
+Act 4: Application and underwriting
+An application agent fills in most of the insurer's application from the fact sheet, so Sarah only confirms her details and answers the health questions.
+The insurer's underwriting agent checks the risk. It approves straightforward cases and sends anything complex to a human underwriter. For example, Sarah mentions mild asthma, so the agent asks one clarifying question.
+Sarah gets a policy notice: "You're covered," plus a link to the Vivo wellbeing benefits.
